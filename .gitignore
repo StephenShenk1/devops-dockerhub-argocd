@@ -1,0 +1,6 @@
+# VS Code files
+.vscode/
+vscode-backup/
+
+# macOS system files
+.DS_Store
