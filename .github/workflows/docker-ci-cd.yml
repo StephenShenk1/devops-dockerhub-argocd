@@ -5,7 +5,7 @@ on:
     branches: [main]
 
 env:
-  IMAGE_NAME: yourdockerhubusername/your-app-name
+  IMAGE_NAME: stephenshenk/petapp
   IMAGE_TAG: ${{ github.sha }}
 
 jobs:
